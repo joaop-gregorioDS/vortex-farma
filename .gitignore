@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+frontend/node_modules/
+frontend/.next/
+frontend/playwright-report/
+frontend/test-results/
+artifacts/
+.env
+*.user
+*.log
+.tools/
+frontend/*.tsbuildinfo

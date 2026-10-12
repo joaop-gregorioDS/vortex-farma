@@ -1,0 +1,10 @@
+**/bin
+**/obj
+frontend/node_modules
+frontend/.next
+frontend/test-results
+frontend/playwright-report
+.tools
+.git
+.env
+artifacts

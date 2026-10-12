@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/backend/" />
+  <Folder Name="/backend/src/">
+    <Project Path="backend/src/VortexFarma.Api/VortexFarma.Api.csproj" />
+    <Project Path="backend/src/VortexFarma.Application/VortexFarma.Application.csproj" />
+    <Project Path="backend/src/VortexFarma.Domain/VortexFarma.Domain.csproj" />
+    <Project Path="backend/src/VortexFarma.Infrastructure/VortexFarma.Infrastructure.csproj" />
+    <Project Path="backend/src/VortexFarma.Worker/VortexFarma.Worker.csproj" />
+  </Folder>
+  <Folder Name="/backend/tests/">
+    <Project Path="backend/tests/VortexFarma.Tests/VortexFarma.Tests.csproj" />
+  </Folder>
+</Solution>
